@@ -1,0 +1,30 @@
+@import './styles/theme.scss';
+
+body {
+  color: $text;
+  background-color: $bg;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  font-family: 'Franklin Gothic Medium';
+}
+
+.footer {
+  margin-bottom: 100px;
+}
+
+/* scroll width */
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+/* scroll thumb */
+::-webkit-scrollbar-thumb {
+  background: $scrollbar-thumb;
+}
+
+/* scroll thumb on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: $scrollbar-thumb-hover;
+}

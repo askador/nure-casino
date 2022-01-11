@@ -1,0 +1,28 @@
+@import "../theme.scss";
+
+/*
+  Кнопка-ссылка
+*/
+@mixin tooltip-btn(
+  // размер шрифта
+    $font-sz
+) {
+  background: $btn-tooltip-color;
+  padding:   10px 10px;
+  margin: 0px 0px;
+  font-size: $font-sz;
+  color: white;
+
+  display: inline-block;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+
+  cursor: pointer;
+
+  &:hover {
+    background: darken($btn-tooltip-color, 15%);
+  }
+
+
+}

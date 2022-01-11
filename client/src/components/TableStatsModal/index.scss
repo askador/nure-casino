@@ -1,0 +1,24 @@
+.modal-dialog.table-stats {
+    width: 700px;
+    max-width: 700px;
+}
+
+body > div:nth-child(9) > div > div > div.modal-body {
+    display: flex;
+}
+
+.react-datepicker {
+    margin-top: 20px;
+}
+
+
+.stats-section-table {
+
+    font-size: 20px !important;
+
+    .profit{
+        display: block;
+        margin-top: 40px;
+        
+    }
+}

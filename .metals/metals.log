@@ -1,0 +1,22 @@
+[0m2021.12.31 12:34:07 INFO  Started: Metals version 0.10.9 in workspace 'D:\Documents\?????\??\2 ????\???\????????' for client Visual Studio Code 1.61.0.[0m
+[0m2021.12.31 12:34:08 INFO  time: initialize in 0.53s[0m
+[0m2021.12.31 12:34:11 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.31 12:34:11 WARN  no build tool detected in workspace 'D:\Documents\?????\??\2 ????\???\????????'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.31 12:38:28 INFO  shutting down Metals[0m
+[0m2022.01.02 15:28:21 INFO  Started: Metals version 0.10.9 in workspace 'D:\Documents\?????\??\2 ????\???\????????' for client Visual Studio Code 1.61.0.[0m
+[0m2022.01.02 15:28:22 INFO  time: initialize in 0.86s[0m
+[0m2022.01.02 15:28:23 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.02 15:28:23 WARN  no build tool detected in workspace 'D:\Documents\?????\??\2 ????\???\????????'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.02 17:47:44 INFO  shutting down Metals[0m
+[0m2022.01.03 10:42:21 INFO  Started: Metals version 0.10.9 in workspace 'D:\Documents\?????\??\2 ????\???\????????' for client Visual Studio Code 1.61.0.[0m
+[0m2022.01.03 10:42:22 INFO  time: initialize in 1.26s[0m
+[0m2022.01.03 10:42:23 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.03 10:42:23 WARN  no build tool detected in workspace 'D:\Documents\?????\??\2 ????\???\????????'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.03 11:31:35 INFO  shutting down Metals[0m
+[0m2022.01.04 10:19:31 INFO  Started: Metals version 0.10.9 in workspace 'D:\Documents\?????\??\2 ????\???\????????' for client Visual Studio Code 1.61.0.[0m
+[0m2022.01.04 10:19:32 INFO  time: initialize in 0.74s[0m
+[0m2022.01.04 10:19:33 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.04 10:19:33 WARN  no build tool detected in workspace 'D:\Documents\?????\??\2 ????\???\????????'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Jan 04, 2022 10:26:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.01.04 10:26:41 INFO  shutting down Metals[0m

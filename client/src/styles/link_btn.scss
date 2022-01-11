@@ -1,0 +1,10 @@
+@import './theme.scss';
+
+.link_btn {
+  display: inline-block;
+  border-radius: 12px;
+  text-decoration: none;
+  color: $text;
+  transition: 0.3s;
+  text-align: center;
+}

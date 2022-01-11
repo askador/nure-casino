@@ -1,0 +1,14 @@
+{
+  "name": "kursovaya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "build": "cd server && npm run build",
+    "client": "cd client && npm run start",
+    "server": "cd server && npm run start",
+    "dev": "cd server && npm run dev"
+  },
+  "author": "Serhii Fedosov",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+/*
+  Кнопка-ссылка
+*/
+@mixin link-button(
+  // цвет кнопки
+    $bg,
+  // отступы
+    $padding,
+  // смещение
+    $margin,
+  // размер шрифта
+    $font-sz
+) {
+  background: $bg;
+  padding: $padding;
+  margin: $margin;
+  font-size: $font-sz;
+
+  &:hover {
+    background: darken($bg, 15%);
+  }
+
+  //   @each $key, $value in $border {
+  //     #{$key}: $value;
+  //   }
+}

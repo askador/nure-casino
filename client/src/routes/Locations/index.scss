@@ -1,0 +1,33 @@
+@import '../../styles/theme.scss';
+@import '../../styles/mixins/tooltip_btn.scss';
+@import '../../styles/mixins/tables.scss';
+
+
+.locations {
+    width: 65%; 
+    margin: auto;
+    margin-top: 50px;
+    text-align: center; 
+
+    .functional {
+        text-align: end;
+        margin-bottom: 50px;
+
+        .link_btn {
+            @include tooltip-btn(14px)
+        }
+
+        .tooltip {
+            font-size: 16px !important;
+            background-color: black !important;
+            border-radius: 4px !important;
+            opacity: 0.97 !important;
+        }
+        
+        button {
+            margin-left: 10px;
+        }
+    }
+
+    @include tables();
+}

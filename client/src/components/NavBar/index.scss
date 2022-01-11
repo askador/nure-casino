@@ -1,0 +1,25 @@
+@import "../../styles/theme.scss";
+
+ul {
+    display: flex;
+    align-items: center;
+
+    > li {
+        list-style: none;
+        margin-left: 50px;
+
+        &:hover {
+            transform: scale(1.13);
+        }
+
+        > a {
+            color: inherit;
+            text-decoration: none;
+            font-size: 18px;
+
+            &.active {
+                color: $nav-link-active;
+            }
+        }
+    }
+}

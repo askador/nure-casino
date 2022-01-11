@@ -1,0 +1,22 @@
+.table-data.employees {
+    max-width: 650px;
+    width: 650px;
+    text-align: left;
+}
+
+.employee-photo {
+    
+    width: 200px;
+    height: 200px;
+    max-width: 200px;
+    max-height: 200px;
+
+    img {
+        width: 100%;
+    }
+}
+
+
+body > div.fade.modal.show > div > div > div.modal-body > div > div > div.col-sm-8 > form > div:nth-child(6) > label {
+    margin-right: 10px;
+}
