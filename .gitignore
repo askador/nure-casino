@@ -1,3 +1,5 @@
-/node_modules
-/Документы
+node_modules
+Документы
 .env
+.vscode
+.metals
